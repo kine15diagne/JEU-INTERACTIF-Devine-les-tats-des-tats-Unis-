@@ -1,4 +1,4 @@
-# Digit Recognition with K-Nearest Neighbors (KNN)
+# Jeu interactif – Devine les États des États-Unis
 Ce projet est un jeu éducatif interactif développé en Python avec les bibliothèques Turtle et Pandas. L'objectif est de deviner les 50 États des États-Unis en les tapant un par un. Lorsqu'un État est correctement deviné, son nom apparaît automatiquement à sa position géographique sur la carte
 # Fonctionnalités
 Interface graphique avec une carte vierge des États-Unis.
