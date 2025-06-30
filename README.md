@@ -6,11 +6,11 @@ Saisie interactive des noms d’États.
 Affichage dynamique des noms sur la carte.
 Suivi du score en temps réel.
 Création d’un fichier `states_to_learn.csv` listant les États non trouvés.
-Technologies utilisées
+# Technologies utilisées
 Python 3
 turtle pour l’interface graphique
 pandas pour la gestion des données CSV
 # Fichiers 
-`blank_states_img.gif` : image de la carte des États-Unis.
-`50_states.csv` : fichier contenant les noms des États et leurs coordonnées (x, y).
+blank_states_img.gif : image de la carte des États-Unis.
+50_states.csv : fichier contenant les noms des États et leurs coordonnées (x, y).
 
